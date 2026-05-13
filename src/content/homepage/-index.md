@@ -2,9 +2,9 @@
 # Banner
 banner:
   title: |
-    Powering The Next
+    GEOBoost für deine Sichtbarkeit
     <br/>
-    <mark>Generation of Intelligence</mark>
+    <mark>in KI LLms wie Chatgtp ect. </mark>
   content: Elevate your site’s visibility effortlessly with AI, where smart
     technology meets user-friendly SEO tools.
   badge:
@@ -23,6 +23,8 @@ banner:
     enable: true
     label: Edit with Sitepins
     link: https://app.sitepins.com/new/clone?name=PoweraiAstro&repository=https://github.com/sitepins/powerai-astro&aff=poweraiastro
-draft: true
+draft: false
 ---
+#
+
 ​
