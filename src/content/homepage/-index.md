@@ -17,11 +17,11 @@ banner:
   image: /images/banner.png
   button_dark:
     enable: true
-    label: GitHub Repository
-    link: https://github.com/sitepins/powerai-astro
+    label: Preise
+    link: https://geo-boost-website.vercel.app/pricing
   button_primary:
     enable: true
-    label: Edit with Sitepins
+    label: Kostenloses Erstgespräch
     link: https://app.sitepins.com/new/clone?name=PoweraiAstro&repository=https://github.com/sitepins/powerai-astro&aff=poweraiastro
 draft: false
 ---
