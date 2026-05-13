@@ -28,3 +28,7 @@ draft: false
 #
 
 ​
+
+![](/images/about-banner.png)
+
+​
