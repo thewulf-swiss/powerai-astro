@@ -23,12 +23,10 @@ banner:
     enable: true
     label: Kostenloses Erstgespräch
     link: https://app.sitepins.com/new/clone?name=PoweraiAstro&repository=https://github.com/sitepins/powerai-astro&aff=poweraiastro
-draft: false
+draft: true
 ---
 #
 
 ​
-
-![](/images/about-banner.png)
 
 ​
